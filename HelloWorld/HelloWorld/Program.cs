@@ -6,8 +6,8 @@ namespace HelloWorld
     {
         private static void Main(string[] args)
         {
-            WriteLine("Hello ");
-            WriteLine("World!");
+            WriteLine("Hello");
+            WriteLine(" World!");
             ReadKey();
         }
     }
